@@ -1,4 +1,4 @@
-![](public/banner.jpg)
+<img src="https://raw.githubusercontent.com/thegreatyamori/thegreatyamori/master/public/banner.jpg" alt="banner con dos triadas de front-end & back-end">
 
 ### Hi there. I'm Jerson 👋
 
